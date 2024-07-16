@@ -22,5 +22,5 @@ Password: admin
 
 Credential for user panel :
 
-Username: phpgurukulteam@gmail.com
+Username: harshitcrazy@gmail.com
 Password: Demo@123
